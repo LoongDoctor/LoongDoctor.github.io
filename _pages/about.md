@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 😊 About me
 If you are seeking any form of academic cooperation, please feel free to email me at longbohan@hdu.edu.cn. 
 
 I am a PhD student in Cyberspace Security at Hangzhou Dianzi University, advised by You Lin. 
@@ -43,7 +44,7 @@ My research interest includes  Lattice-based Cryptography, Blockchain Technology
 - *2015*, 全国大学生新道杯沙盘模拟运营大赛重庆市一等奖，省级奖励.
 - *2014*, 重庆市挑战杯全国大学生课外学术科技作品竞赛一等奖，省级奖励.
 
-# 📖 Project (team member)
+# 🌏 Project (team member)
 - National Natural Science Foundation of China under Grant 61772166.
 - the Key Program of the Natural Science Foundation of Zhejiang province of China under Grant LZ17F020002.
 - the Open Research Fund of Key Laboratory of Cryptography of Zhejiang Province.
