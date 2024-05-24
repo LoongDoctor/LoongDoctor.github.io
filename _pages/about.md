@@ -25,8 +25,8 @@ My research interest includes  Lattice-based Cryptography, Blockchain Technology
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.01*: &nbsp; A Novel Lattice-based Blockchain Infrastructure and its Application on Trusted Data Management, TNSE, under review.
+- *2024.01*: &nbsp; An Enhanced Conditional Privacy-preserving Authentication for VANETs Based on Zero-Knowledge Proofs and Blockchain, TDSC, under review.
 
 # 📝 Publications 
 
