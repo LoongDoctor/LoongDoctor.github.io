@@ -34,7 +34,7 @@ My research interest includes  Lattice-based Cryptography, Blockchain Technology
 
 
 # 🎖 Honors and Awards
-- *2023*，获得杭州电子科技大学博士研究生国家奖学金.
+- *2023*，获得杭州电子科技大学博士研究生国家奖学金. 
 - *2023*，获得杭州电子科技大学学业一等奖学金.
 - *2022*，获得杭州电子科技大学学业一等奖学金.
 - *2020*,获得西北师范大学优秀干部奖，校级奖励.
@@ -43,13 +43,13 @@ My research interest includes  Lattice-based Cryptography, Blockchain Technology
 - *2015*,获得全国大学生新道杯沙盘模拟运营大赛重庆市一等奖，省级奖励.
 - *2014*,获得重庆市挑战杯全国大学生课外学术科技作品竞赛一等奖，省级奖励.
 
-# 📖 Educations
+# 📖 Project (team member)
+
+# 📖 Others
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
 
 # 💻 Internships
 - *2020.10-2021.03*, [甘肃安聚科技有限公司（GANSU ANJU TECHNOLOGY SECURITY CO.）](http://www.xbcisp.com/), China.
