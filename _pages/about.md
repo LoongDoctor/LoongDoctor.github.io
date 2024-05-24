@@ -44,12 +44,12 @@ My research interest includes  Lattice-based Cryptography, Blockchain Technology
 - *2014*,获得重庆市挑战杯全国大学生课外学术科技作品竞赛一等奖，省级奖励.
 
 # 📖 Project (team member)
+- National Natural Science Foundation of China under Grant 61772166.
+- the Key Program of the Natural Science Foundation of Zhejiang province of China under Grant LZ17F020002.
+- the Open Research Fund of Key Laboratory of Cryptography of Zhejiang Province.
 
 # 📖 Others
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
+- None.
 
 # 💻 Internships
 - *2020.10-2021.03*, [甘肃安聚科技有限公司（GANSU ANJU TECHNOLOGY SECURITY CO.）](http://www.xbcisp.com/), China.
