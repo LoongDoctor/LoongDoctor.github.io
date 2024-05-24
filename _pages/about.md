@@ -52,4 +52,4 @@ My research interest includes  Lattice-based Cryptography, Blockchain Technology
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2020.10-2021.03*, [甘肃安聚科技有限公司（GANSU ANJU TECHNOLOGY SECURITY CO.）](http://www.xbcisp.com/), China.
