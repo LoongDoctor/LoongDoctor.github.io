@@ -30,14 +30,12 @@ My research interest includes  Lattice-based Cryptography, Blockchain Technology
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+#<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+#<div class='paper-box-text' markdown="1">
 - Han, Longbo, et al.[ "Privacy protection of VANET based on traceable ring signature on ideal lattice." ](https://ieeexplore.ieee.org/abstract/document/9258891), IEEE Access 8 (2020): 206581-206591.
 - Zhang, Z., Cao, S., Yang, X. Han, L.[An efficient outsourcing attribute-based encryption scheme in 5G mobile network environments. ](https://doi.org/10.1007/s12083-021-01195-2),  Peer-to-Peer Netw. Appl. 14, 3488–3501 (2021).
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+#</div>
+#</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
