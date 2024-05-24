@@ -33,7 +33,9 @@ My research interest includes  Lattice-based Cryptography, Blockchain Technology
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- Han, Longbo, et al.[ "Privacy protection of VANET based on traceable ring signature on ideal lattice." ](https://ieeexplore.ieee.org/abstract/document/9258891), IEEE Access 8 (2020): 206581-206591.
+- Zhang, Z., Cao, S., Yang, X. Han, L.[An efficient outsourcing attribute-based encryption scheme in 5G mobile network environments. ](https://doi.org/10.1007/s12083-021-01195-2),  Peer-to-Peer Netw. Appl. 14, 3488–3501 (2021).
+
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
