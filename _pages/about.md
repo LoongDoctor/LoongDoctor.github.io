@@ -44,7 +44,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 - *2015.07*,&nbsp; Prize for “Challenge Cup” National Science and Technology College of extra-curricular academic competition works in Chongqing, 重庆市挑战杯全国大学生课外学术科技作品竞赛一等奖.
 
 # 🌏 Project (team member)
-- National Natural Science Foundation of China under Grant 61772166.
+- National Natural Science Foundation of China under Grant 61772166,61662071,61562077,61662069.
 - the Key Program of the Natural Science Foundation of Zhejiang province of China under Grant LZ17F020002.
 - the Open Research Fund of Key Laboratory of Cryptography of Zhejiang Province.
 
