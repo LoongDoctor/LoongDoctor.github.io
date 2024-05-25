@@ -33,14 +33,15 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 
 # 🎖 Honors and Awards
-- *2023*，杭州电子科技大学博士研究生国家奖学金. 
-- *2023*，杭州电子科技大学学业一等奖学金.
-- *2022*，杭州电子科技大学学业一等奖学金.
-- *2020*, 西北师范大学优秀学生干部奖，校级奖励.
-- *2019*, 西北师范大学实践先锋奖，校级奖励.
-- *2016*, 全国大学生新道杯沙盘模拟运营大赛国赛三等奖，省部级奖励.
-- *2015*, 全国大学生新道杯沙盘模拟运营大赛重庆市一等奖，省级奖励.
-- *2014*, 重庆市挑战杯全国大学生课外学术科技作品竞赛一等奖，省级奖励.
+- *2023.10*，National Scholarship (Top 3%), 杭州电子科技大学博士研究生国家奖学金.
+- *2023.10*，The First Prize Scholarship (Top 30%), 杭州电子科技大学学业一等奖学金.
+- *2022.10*，The First Prize Scholarship (Top 30%), 杭州电子科技大学学业一等奖学金.
+- *2020.10*, Excellent Student Cadre (Only one in a college), 西北师范大学优秀学生干部奖.
+- *2019.10*, Prize for the practice vanguard (Only one in a college), 西北师范大学实践先锋奖.
+- *2016.11*, Prize for the Enterprise Resource Planning Game(ERP), 全国大学生新道杯沙盘模拟运营大赛国赛三等奖.
+- *2016.07*, Prize for the Enterprise Resource Planning Game(ERP) in Chongqing, 全国大学生新道杯沙盘模拟运营大赛重庆市一等奖.
+- *2016.01*, Outstanding Student, 先进个人.
+- *2015.07*, Prize for “Challenge Cup” National Science and Technology College of extra-curricular academic competition works in Chongqing, 重庆市挑战杯全国大学生课外学术科技作品竞赛一等奖.
 
 # 🌏 Project (team member)
 - National Natural Science Foundation of China under Grant 61772166.
