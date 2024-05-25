@@ -28,8 +28,8 @@ If you are seeking any form of academic cooperation, please feel free to email m
 - *2024.01*: &nbsp; An Enhanced Conditional Privacy-preserving Authentication for VANETs Based on Zero-Knowledge Proofs and Blockchain, TDSC, under review.
 
 # 📝 Publications 
-- Han, Longbo, et al.[ "Privacy protection of VANET based on traceable ring signature on ideal lattice." ](https://ieeexplore.ieee.org/abstract/document/9258891), IEEE Access 8 (2020): 206581-206591.
-- Zhang, Z., Cao, S., Yang, X. Han, L.[An efficient outsourcing attribute-based encryption scheme in 5G mobile network environments. ](https://doi.org/10.1007/s12083-021-01195-2),  Peer-to-Peer Netw. Appl. 14, 3488–3501 (2021).
+-  ``IEEE ACCESS`` [ "Privacy protection of VANET based on traceable ring signature on ideal lattice." ](https://ieeexplore.ieee.org/abstract/document/9258891), Han, Longbo, et al.
+-  ``P2P Netw. Appl.`` [An efficient outsourcing attribute-based encryption scheme in 5G mobile network environments. ](https://doi.org/10.1007/s12083-021-01195-2), Zhang, Z., Cao, S., Yang, X. Han, L.
 
 
 # 🎖 Honors and Awards
