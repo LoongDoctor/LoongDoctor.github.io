@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Longbo Han"
 description              : "Focusing on Lattice-based Cryptography, Blockchain Technology, Zero-Knowlage Proof and Privacy Protection. "
-repository               : "Dragon-Doctor/dragon-doctor.github.io"
+repository               : "LoongDoctor/LoongDoctor.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :  "Dragon-Doctor" # e.g., "github username"
+  github           :  "LoongDoctor" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
