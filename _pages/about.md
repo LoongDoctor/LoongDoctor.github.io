@@ -20,8 +20,8 @@ redirect_from:
 # 😊 About me
 I am a PhD student in Cyberspace Security at Hangzhou Dianzi University, advised by You Lin. 
 
-My research interest includes  Lattice-based Cryptography, Blockchain Technology, Zero-Knowlage Proof and Privacy Protection. I have published 2 papers <a href='https://scholar.google.com/citations?user=sfSE38wAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the international journal.
-<a href='https://scholar.google.com/citations?user=sfSE38wAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FDragon-Doctor%2FDragon-Doctor.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interest includes  Lattice-based Cryptography, Blockchain Technology, Zero-Knowlage Proof and Privacy Protection. I have published 2 papers <a href='https://scholar.google.com/citations?user=sfSE38wAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FDragon-Doctor%2FDragon-Doctor.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the international journal.
+
 
 If you are seeking any form of academic cooperation, please feel free to email me at longbohan@hdu.edu.cn. 
 # 🔥 News
