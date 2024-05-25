@@ -46,8 +46,8 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 # 🌏 Project (team member)
 - National Natural Science Foundation of China under Grant 61772166,61662071,61562077,61662069.
-- the Key Program of the Natural Science Foundation of Zhejiang province of China under Grant LZ17F020002.
-- the Open Research Fund of Key Laboratory of Cryptography of Zhejiang Province.
+- The Key Program of the Natural Science Foundation of Zhejiang province of China under Grant LZ17F020002.
+- The Open Research Fund of Key Laboratory of Cryptography of Zhejiang Province.
 
 # 📖 Others
 - None.
