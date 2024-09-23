@@ -49,16 +49,16 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 # 🌏 Project (team member)
 - National Natural Science Foundation of China under Grant 61772166,61662071,61562077,61662069.
-- The Key Program of the Natural Science Foundation of Zhejiang province of China under Grant LZ17F020002.
-- The Open Research Fund of Key Laboratory of Cryptography of Zhejiang Province.
 - 国家自然科学基金（面上）：
 61772166, 基于多模态生物特征与纠错码的新型密码算法;
 61662071, 基于属性加密的数据访问控制方法研究;
 61562077, 大数据环境下数据层隐私保护性多方密码算法研究;
 61662069, 云计算环境下支持动态群组和隐私保护的大数据完整性验证机制研究;
 61602143, 格上计算问题的算法与复杂性研究.
+- The Key Program of the Natural Science Foundation of Zhejiang province of China under Grant LZ17F020002.
 - 浙江省自然科学基金项目（重点）：
 LZ17F020002, 基于互联网与多模态生物特征识别技术的信息安全关键技术.
+- The Open Research Fund of Key Laboratory of Cryptography of Zhejiang Province.
 - 省重点实验室开放课题：
 ZCL21005, 区块链跨链上的扩容技术与应用.
 
