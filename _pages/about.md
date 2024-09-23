@@ -20,13 +20,14 @@ redirect_from:
 # 😊 About me
 I am a PhD student in Cyberspace Security at Hangzhou Dianzi University, advised by [You Lin](https://cbs.hdu.edu.cn/2018/0323/c3446a83389/page.htm) and [Gengran Hu](https://faculty.hdu.edu.cn/wlkjaqxy/hgr/main.htm). 
 
-My research interest includes  Lattice-based Cryptography, Blockchain Technology, Zero-Knowlage Proof and Privacy Protection. I have published 2 papers <a href='https://scholar.google.com/citations?user=sfSE38wAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLoongDoctor%2FLoongDoctor.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the international journal.
+My research interests include Lattice-based Cryptography, Blockchain Technology, Zero-Knowlage Proof, and Privacy Protection. I have published 2 papers <a href='https://scholar.google.com/citations?user=sfSE38wAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLoongDoctor%2FLoongDoctor.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the international journal.
 
 
 If you are seeking any form of academic cooperation, please feel free to email me at longbohan@hdu.edu.cn. 
 # 🔥 News
 - *2024.01*: &nbsp; A Novel Lattice-based Blockchain Infrastructure and its Application on Trusted Data Management, TNSE, under review.
 - *2024.01*: &nbsp; An Enhanced Conditional Privacy-preserving Authentication for VANETs Based on Zero-Knowledge Proofs and Blockchain, TDSC, under review.
+- *2024.10*: &nbsp; A Conditional Privacy-Preserving Authentication with Threshold Auditability for VANETs, COMPUTER-AIDED CIVIL AND INFRASTRUCTURE ENGINEERING, under review.
 
 # 📝 Publications 
 -  ``IEEE ACCESS`` [ "Privacy protection of VANET based on traceable ring signature on ideal lattice." ](https://ieeexplore.ieee.org/abstract/document/9258891), Han, Longbo, et al.
@@ -39,6 +40,8 @@ If you are seeking any form of academic cooperation, please feel free to email m
 - *2022.10*,&nbsp; The First Prize Scholarship (Top 30%), 杭州电子科技大学学业一等奖学金.
 - *2020.10*,&nbsp; Excellent Student Cadre (Only one in a college), 西北师范大学优秀学生干部奖.
 - *2019.10*,&nbsp; Prize for the practice vanguard (Only one in a college), 西北师范大学实践先锋奖.
+- *2020.10*,&nbsp; The Second Prize Scholarship (Top 30%), 西北师范大学学业二等奖学金.
+- *2019.10*,&nbsp; The Second Prize Scholarship (Top 30%), 西北师范大学学业二等奖学金.
 - *2016.11*,&nbsp; Prize for the Enterprise Resource Planning Game(ERP), 全国大学生新道杯沙盘模拟运营大赛国赛三等奖.
 - *2016.07*,&nbsp; Prize for the Enterprise Resource Planning Game(ERP) in Chongqing, 全国大学生新道杯沙盘模拟运营大赛重庆市一等奖.
 - *2016.01*,&nbsp; Outstanding Student, 先进个人.
