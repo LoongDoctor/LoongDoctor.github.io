@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😊 About me
-I am a PhD student in Cyberspace Security at Hangzhou Dianzi University, advised by [You Lin](https://cbs.hdu.edu.cn/2018/0323/c3446a83389/page.htm) and [Gengran Hu](https://faculty.hdu.edu.cn/wlkjaqxy/hgr/main.htm). 
+I am a PhD Candidate in Cyberspace Security at Hangzhou Dianzi University, advised by [You Lin](https://cbs.hdu.edu.cn/2018/0323/c3446a83389/page.htm) and [Gengran Hu](https://faculty.hdu.edu.cn/wlkjaqxy/hgr/main.htm). 
 
 My research focuses on the **Lattice-based Cryptography**, **Blockchain Technology**, **Zero-Knowledge Proof**, and **Privacy Protection**.
 
