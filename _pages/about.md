@@ -20,8 +20,7 @@ redirect_from:
 # 😊 About me
 I am a PhD student in Cyberspace Security at Hangzhou Dianzi University, advised by [You Lin](https://cbs.hdu.edu.cn/2018/0323/c3446a83389/page.htm) and [Gengran Hu](https://faculty.hdu.edu.cn/wlkjaqxy/hgr/main.htm). 
 
-My research interests include Lattice-based Cryptography, Blockchain Technology, Zero-Knowlage Proof, and Privacy Protection. I have published 2 papers <a href='https://scholar.google.com/citations?user=sfSE38wAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLoongDoctor%2FLoongDoctor.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the international journal.
-
+My research focuses on the **Lattice-based Cryptography**, **Blockchain Technology**, **Zero-Knowledge Proof**, and **Privacy Protection**.
 
 If you are seeking any form of academic cooperation, please feel free to email me at longbohan@hdu.edu.cn. 
 # 🔥 News
@@ -30,6 +29,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 - *2024.01*: &nbsp; An Enhanced Conditional Privacy-preserving Authentication for VANETs Based on Zero-Knowledge Proofs and Blockchain, IEEE Transactions on Dependable and Secure Computing, under review.
 
 # 📝 Publications 
+ Total number of the citations <a href='https://scholar.google.com/citations?user=sfSE38wAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLoongDoctor%2FLoongDoctor.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 - ``IEEE Transactions on Network Science and Engineering`` [ "A Novel Lattice-based Blockchain Infrastructure and its Application on Trusted Data Management." ](https://ieeexplore.ieee.org/abstract/document/10922084), Han, Longbo, et al.
 -  ``IEEE ACCESS`` [ "Privacy protection of VANET based on traceable ring signature on ideal lattice." ](https://ieeexplore.ieee.org/abstract/document/9258891), Han, Longbo, et al.
 -  ``P2P Netw. Appl.`` [An efficient outsourcing attribute-based encryption scheme in 5G mobile network environments. ](https://doi.org/10.1007/s12083-021-01195-2), Zhang, Z., Cao, S., Yang, X. Han, L.
