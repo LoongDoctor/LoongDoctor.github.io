@@ -30,6 +30,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 # 📝 Publications  <a href='https://scholar.google.com/citations?user=sfSE38wAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLoongDoctor%2FLoongDoctor.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+- ``IEEE Internet of Things Journal`` [ "SurroFL: Sketch-Based Defense Against Poisoning in Privacy-Preserving Federated Learning." ](https://ieeexplore.ieee.org/document/11141403), Yuyang Kuang, Weinan Liu, Longbo Han, et al.
 - ``IEEE Transactions on Network Science and Engineering`` [ "A Novel Lattice-based Blockchain Infrastructure and its Application on Trusted Data Management." ](https://ieeexplore.ieee.org/abstract/document/10922084), Han, Longbo, et al.
 -  ``IEEE ACCESS`` [ "Privacy protection of VANET based on traceable ring signature on ideal lattice." ](https://ieeexplore.ieee.org/abstract/document/9258891), Han, Longbo, et al.
 -  ``P2P Netw. Appl.`` [An efficient outsourcing attribute-based encryption scheme in 5G mobile network environments. ](https://doi.org/10.1007/s12083-021-01195-2), Zhang, Z., Cao, S., Yang, X. Han, L.
