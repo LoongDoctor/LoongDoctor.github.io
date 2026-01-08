@@ -30,8 +30,6 @@ With a solid background in cryptographic theory and practical security solutions
 If you are seeking any form of academic cooperation, please feel free to email me at longbohan@hdu.edu.cn and longbohan@fudan.edu.cn. 
 # 🔥 News
 - *2025.03*: &nbsp; A Novel Lattice-based Blockchain Infrastructure and its Application on Trusted Data Management, IEEE Transactions on Network Science and Engineering, ACCEPT.
-- *2025.03*: &nbsp; A Conditional Privacy-Preserving Authentication with Threshold Auditability for VANETs, IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS, under review.
-- *2024.01*: &nbsp; An Enhanced Conditional Privacy-preserving Authentication for VANETs Based on Zero-Knowledge Proofs and Blockchain, IEEE Transactions on Dependable and Secure Computing, under review.
 
 # 📝 Publications  <a href='https://scholar.google.com/citations?user=sfSE38wAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLoongDoctor%2FLoongDoctor.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
