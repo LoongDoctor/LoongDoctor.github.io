@@ -18,11 +18,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😊 About me
-I am a PhD Candidate in Cyberspace Security at Hangzhou Dianzi University, advised by [You Lin](https://cbs.hdu.edu.cn/2018/0323/c3446a83389/page.htm) and [Gengran Hu](https://faculty.hdu.edu.cn/wlkjaqxy/hgr/main.htm). 
+Postdoctoral Researcher at the College of Computer Science and Artificial Intelligence, **Fudan University**, shanghai and at Zhejiang Dong'an Testing Technology Co., Ltd., Hangzhou.
+Specializing in Generative AI Security and Privacy Protection. 
+Advised by [Kan Haibin](https://cis.cs.fudan.edu.cn/), [You Lin](https://cbs.hdu.edu.cn/2018/0323/c3446a83389/page.htm) and [Gengran Hu](https://faculty.hdu.edu.cn/wlkjaqxy/hgr/main.htm). 
 
-My research focuses on the **Lattice-based Cryptography**, **Blockchain Technology**, **Zero-Knowledge Proof**, and **Privacy Protection**.
+Dr. Longbo Han is currently a postdoctoral researcher at the **Fudan University** and the **Zhejiang Dong'an Testing Technology Co., Ltd.**, where they focus on **cybersecurity in AI applications**, with a particular emphasis on **generative AI security**, **privacy protection**, and **cryptographic techniques**. Holding a Ph.D. in Cryptography from **Hangzhou Dianzi University**, their research spans across **federated learning**, **blockchain technologies**, and **data security**, aiming to address the emerging challenges and vulnerabilities in large-scale AI systems.  
 
-If you are seeking any form of academic cooperation, please feel free to email me at longbohan@hdu.edu.cn. 
+With a solid background in cryptographic theory and practical security solutions, Dr. Han is leading research on building secure AI models for critical sectors, including the e-energy, healthcare, and goverment. Their expertise lies in developing methodologies for proactive defense systems against adversarial attacks, ensuring the privacy and security of distributed AI models, and utilizing advanced cryptographic techniques such as homomorphic encryption and differential privacy for enhanced data protection.
+
+
+If you are seeking any form of academic cooperation, please feel free to email me at longbohan@hdu.edu.cn and longbohan@fudan.edu.cn. 
 # 🔥 News
 - *2025.03*: &nbsp; A Novel Lattice-based Blockchain Infrastructure and its Application on Trusted Data Management, IEEE Transactions on Network Science and Engineering, ACCEPT.
 - *2025.03*: &nbsp; A Conditional Privacy-Preserving Authentication with Threshold Auditability for VANETs, IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS, under review.
