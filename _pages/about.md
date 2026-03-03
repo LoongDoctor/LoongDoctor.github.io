@@ -29,10 +29,12 @@ With a solid background in cryptographic theory and practical security solutions
 
 If you are seeking any form of academic cooperation, please feel free to email me at longbohan@hdu.edu.cn and longbohan@fudan.edu.cn. 
 # 🔥 News
+- *2026.02*: &nbsp; ZebraCPA: Decentralized, Post-Quantum Conditional Privacy-Preserving Authentication for VANETs via Traceable ZK Ring Signatures, IEEE Internet of Things Journal, ACCEPT.
 - *2025.03*: &nbsp; A Novel Lattice-based Blockchain Infrastructure and its Application on Trusted Data Management, IEEE Transactions on Network Science and Engineering, ACCEPT.
 
 # 📝 Publications  <a href='https://scholar.google.com/citations?user=sfSE38wAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLoongDoctor%2FLoongDoctor.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
+- ``IEEE Internet of Things Journal`` [ "ZebraCPA: Decentralized, Post-Quantum Conditional Privacy-Preserving Authentication for VANETs via Traceable ZK Ring Signatures" ](https://ieeexplore.ieee.org/document/11408819), Longbo Han, et al.
 - ``IEEE Internet of Things Journal`` [ "SurroFL: Sketch-Based Defense Against Poisoning in Privacy-Preserving Federated Learning." ](https://ieeexplore.ieee.org/document/11141403), Yuyang Kuang, Weinan Liu, Longbo Han, et al.
 - ``IEEE Transactions on Network Science and Engineering`` [ "A Novel Lattice-based Blockchain Infrastructure and its Application on Trusted Data Management." ](https://ieeexplore.ieee.org/abstract/document/10922084), Han, Longbo, et al.
 -  ``IEEE ACCESS`` [ "Privacy protection of VANET based on traceable ring signature on ideal lattice." ](https://ieeexplore.ieee.org/abstract/document/9258891), Han, Longbo, et al.
