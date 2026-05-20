@@ -16,8 +16,25 @@
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
-      {% if site.description %}
-        <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
+      {% if author.research_interests %}
+        <li class="author__research">
+          <div class="author__research-title">Research Interests</div>
+          <div class="author__research-tags">
+            {% for interest in author.research_interests %}
+              <span>{{ interest }}</span>
+            {% endfor %}
+          </div>
+        </li>
+      {% elsif site.description %}
+        <li class="author__research">
+          <div class="author__research-title">Research Interests</div>
+          <div class="author__research-tags">
+            {% assign interests = site.description | split: "·" %}
+            {% for interest in interests %}
+              <span>{{ interest | strip }}</span>
+            {% endfor %}
+          </div>
+        </li>
       {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
