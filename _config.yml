@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Longbo Han"
-description              : "Generative AI Security · Lattice-based Cryptography · Zero-Knowledge Proofs · Privacy Protection"
+description              : "韩龙博，复旦大学博士后研究员，浙江东安检测技术有限公司 AI 安全检测负责人。研究方向：AI 安全、隐私保护与密码学。"
+url                      : "https://loongdoctor.github.io"
 repository               : "LoongDoctor/LoongDoctor.github.io"
 google_scholar_stats_use_cdn : true
 

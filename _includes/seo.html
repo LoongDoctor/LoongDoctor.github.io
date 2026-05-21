@@ -14,6 +14,9 @@
 {% if seo_description %}
   {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
+{% assign share_image = "/images/share-card.png" | prepend: site.url %}
+{% assign share_image_zh = "/images/share-card-zh.png" | prepend: site.url %}
+{% assign share_image_en = "/images/share-card-en.png" | prepend: site.url %}
 
 {% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}
 {% if seo_author %}
@@ -29,18 +32,37 @@
   {% assign seo_author_twitter = seo_author_twitter | replace: "@", "" %}
 {% endif %}
 
-<meta property="og:locale" content="en">
+<meta property="og:locale" content="en_US">
+<meta property="og:locale:alternate" content="zh_CN">
+<meta property="og:type" content="website">
 <meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ site.title }}">
+<meta property="og:title" content="{{ site.title }} | Academic Homepage">
+<meta name="description" content="{{ seo_description }}">
 
 {% if seo_url %}
   <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
 
-{% if page.excerpt %}
+{% if seo_description %}
   <meta property="og:description" content="{{ seo_description }}">
 {% endif %}
+
+<meta property="og:image" content="{{ share_image_zh }}">
+<meta property="og:image:secure_url" content="{{ share_image_zh }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Longbo Han academic homepage share card, Chinese version">
+<meta property="og:image" content="{{ share_image_en }}">
+<meta property="og:image:secure_url" content="{{ share_image_en }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Longbo Han academic homepage share card, English version">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ site.title }} | Academic Homepage">
+<meta name="twitter:description" content="{{ seo_description }}">
+<meta name="twitter:image" content="{{ share_image_en }}">
 
 {% if site.twitter.username %}
   <meta name="twitter:site" content="@{{ site.twitter.username | replace: "@", "" }}">
