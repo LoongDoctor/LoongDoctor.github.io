@@ -20,9 +20,10 @@ redirect_from:
 <section class="academic-hero">
   <div class="academic-hero__content">
     <h1>Longbo Han</h1>
-    <p class="academic-hero__title">Postdoctoral Researcher · Fudan University</p>
+    <p class="academic-hero__title">Postdoctoral Researcher, Fudan University</p>
+    <p class="academic-hero__subtitle">AI Security Testing Lead, Zhejiang Dong'an Testing Technology Co., Ltd.</p>
     <p class="academic-hero__lead">
-      I study security and privacy for generative AI systems, with a foundation in lattice-based cryptography, zero-knowledge proofs, blockchain technology, and privacy-preserving machine learning.
+      I work on security and privacy for AI systems, with a focus on generative AI security, lattice-based cryptography, zero-knowledge proofs, and privacy-preserving machine learning.
     </p>
     <div class="research-tags" aria-label="Research areas">
       <span>Generative AI Security</span>
@@ -43,22 +44,22 @@ redirect_from:
       <p>College of Computer Science and Artificial Intelligence, Fudan University</p>
     </div>
     <div>
-      <span class="snapshot-label">Focus</span>
-      <strong>Secure AI systems</strong>
-      <p>Adversarial robustness, privacy protection, and cryptographic methods for distributed AI.</p>
+      <span class="snapshot-label">Industry role</span>
+      <strong>AI Security Testing Lead</strong>
+      <p>Zhejiang Dong'an Testing Technology Co., Ltd.</p>
     </div>
     <div>
-      <span class="snapshot-label">Collaboration</span>
-      <strong>Open to academic cooperation</strong>
-      <p>AI security, data security, healthcare, energy, and government-oriented security applications.</p>
+      <span class="snapshot-label">Focus</span>
+      <strong>Secure AI systems</strong>
+      <p>Security evaluation, privacy protection, and cryptographic methods for trustworthy AI.</p>
     </div>
   </aside>
 </section>
 
 <section class="academic-section">
-  <h2>About Me</h2>
+  <h2>Biography</h2>
   <p>
-    Dr. Longbo Han is a postdoctoral researcher at <strong>Fudan University</strong> and <strong>Zhejiang Dong'an Testing Technology Co., Ltd.</strong>. His research focuses on cybersecurity in AI applications, especially generative AI security, privacy protection, and cryptographic techniques.
+    Dr. Longbo Han is a postdoctoral researcher at <strong>Fudan University</strong> and the AI Security Testing Lead at <strong>Zhejiang Dong'an Testing Technology Co., Ltd.</strong>. His research focuses on cybersecurity in AI applications, especially generative AI security, privacy protection, and cryptographic techniques.
   </p>
   <p>
     He received a Ph.D. in Cryptography from <strong>Hangzhou Dianzi University</strong>. His broader research interests include federated learning, blockchain technologies, data security, homomorphic encryption, and differential privacy.
@@ -75,11 +76,11 @@ redirect_from:
   <div class="news-list">
     <div class="news-item">
       <time>2026.02</time>
-      <p><strong>ZebraCPA</strong> was accepted by <em>IEEE Internet of Things Journal</em>.</p>
+      <p><strong>ZebraCPA</strong> accepted by <em>IEEE Internet of Things Journal</em>.</p>
     </div>
     <div class="news-item">
       <time>2025.03</time>
-      <p><strong>A Novel Lattice-based Blockchain Infrastructure and its Application on Trusted Data Management</strong> was accepted by <em>IEEE Transactions on Network Science and Engineering</em>.</p>
+      <p><strong>A Novel Lattice-based Blockchain Infrastructure and its Application on Trusted Data Management</strong> accepted by <em>IEEE Transactions on Network Science and Engineering</em>.</p>
     </div>
   </div>
 </section>
@@ -148,7 +149,7 @@ redirect_from:
   <h2>Projects</h2>
   <div class="project-list">
     <article>
-      <h3>National Natural Science Foundation of China</h3>
+      <h3>National Natural Science Foundation of China Projects</h3>
       <p>61772166, 61662071, 61562077, 61662069, 61602143.</p>
       <p>Topics include multimodal biometric cryptography, attribute-based data access control, privacy-preserving multiparty cryptographic algorithms, big-data integrity verification, and lattice-computing complexity.</p>
     </article>
@@ -157,17 +158,10 @@ redirect_from:
       <p>LZ17F020002: Key information security technologies based on the Internet and multimodal biometric identification.</p>
     </article>
     <article>
-      <h3>Open Research Fund of Key Laboratory of Cryptography of Zhejiang Province</h3>
+      <h3>Key Laboratory of Cryptography of Zhejiang Province</h3>
       <p>ZCL21005: Scalability technology and applications for blockchain cross-chain systems.</p>
     </article>
   </div>
-</section>
-
-<span class="anchor" id="others"></span>
-
-<section class="academic-section">
-  <h2>Others</h2>
-  <p>Additional service, teaching, and professional activities will be added here.</p>
 </section>
 
 <span class="anchor" id="internships"></span>

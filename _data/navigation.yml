@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "Biography"
     url: "/#about-me"
 
   - title: "News"
@@ -14,9 +14,6 @@ main:
 
   - title: "Projects"
     url: "/#projects"
-
-  - title: "Others"
-    url: "/#others"
 
   - title: "Internships"
     url: "/#internships"
