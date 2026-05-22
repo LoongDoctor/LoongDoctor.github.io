@@ -267,7 +267,7 @@ body {
 }
 
 .snapshot-label,
-.publication-venue {
+.publication-year {
   color: var(--academic-accent-2);
   font-size: 0.74rem;
   font-weight: 800;
@@ -354,7 +354,17 @@ body {
 }
 
 .publication-card {
+  position: relative;
   padding: 0.82rem 0;
+  transition: background 0.18s ease, padding 0.18s ease, transform 0.18s ease;
+
+  &:hover,
+  &:focus-within {
+    padding-right: 0.75rem;
+    padding-left: 0.75rem;
+    background: #fbfdff;
+    transform: translateX(2px);
+  }
 
   h3 {
     margin: 0.25rem 0 0.35rem;
@@ -366,6 +376,34 @@ body {
     margin: 0;
     color: var(--academic-muted);
     font-size: 0.92rem;
+  }
+}
+
+.publication-authors {
+  color: #334155 !important;
+}
+
+.publication-details {
+  margin-top: 0.18rem !important;
+}
+
+.publication-rankings {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.55rem;
+
+  span {
+    display: inline-flex;
+    align-items: center;
+    min-height: 1.55rem;
+    padding: 0.18rem 0.5rem;
+    border: 1px solid rgba(24, 78, 119, 0.16);
+    border-radius: 999px;
+    background: #fff;
+    color: #24445c;
+    font-size: 0.76rem;
+    font-weight: 800;
   }
 }
 
