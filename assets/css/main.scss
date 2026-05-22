@@ -330,8 +330,11 @@ body {
   gap: 0;
 }
 
+.publication-list {
+  gap: 0.7rem;
+}
+
 .news-item,
-.publication-card,
 .project-list article {
   border-bottom: 1px solid var(--academic-border);
   background: transparent;
@@ -355,21 +358,32 @@ body {
 
 .publication-card {
   position: relative;
-  padding: 0.82rem 0;
-  transition: background 0.18s ease, padding 0.18s ease, transform 0.18s ease;
+  padding: 0.9rem 1rem;
+  border: 1px solid rgba(24, 78, 119, 0.12);
+  border-left: 3px solid rgba(24, 78, 119, 0.42);
+  border-radius: 6px;
+  background: #fff;
+  box-shadow: 0 6px 18px rgba(31, 41, 55, 0.035);
+  transition: border-color 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
 
   &:hover,
   &:focus-within {
-    padding-right: 0.75rem;
-    padding-left: 0.75rem;
+    border-left-color: var(--academic-accent);
     background: #fbfdff;
-    transform: translateX(2px);
+    box-shadow: 0 10px 24px rgba(31, 41, 55, 0.065);
   }
 
   h3 {
-    margin: 0.25rem 0 0.35rem;
-    font-size: 1rem;
-    line-height: 1.45;
+    max-width: 100%;
+    margin: 0.5rem 0 0.4rem;
+    color: #123a59;
+    font-size: 0.98rem;
+    line-height: 1.42;
+
+    a {
+      overflow-wrap: anywhere;
+      word-break: normal;
+    }
   }
 
   p {
@@ -377,6 +391,21 @@ body {
     color: var(--academic-muted);
     font-size: 0.92rem;
   }
+}
+
+.page__content .publication-year {
+  display: inline-flex;
+  align-items: center;
+  min-height: 1.5rem;
+  padding: 0.16rem 0.52rem;
+  border: 1px solid rgba(24, 78, 119, 0.14);
+  border-radius: 999px;
+  background: var(--academic-soft);
+  color: var(--academic-accent);
+  font-size: 0.72rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: 0.04em;
 }
 
 .publication-authors {
@@ -391,19 +420,20 @@ body {
   display: flex;
   flex-wrap: wrap;
   gap: 0.4rem;
-  margin-top: 0.55rem;
+  margin-top: 0.6rem;
 
   span {
     display: inline-flex;
     align-items: center;
     min-height: 1.55rem;
-    padding: 0.18rem 0.5rem;
+    padding: 0.18rem 0.56rem;
     border: 1px solid rgba(24, 78, 119, 0.16);
     border-radius: 999px;
-    background: #fff;
+    background: #f8fafc;
     color: #24445c;
     font-size: 0.76rem;
     font-weight: 800;
+    line-height: 1;
   }
 }
 
