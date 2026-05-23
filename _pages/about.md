@@ -150,21 +150,47 @@ redirect_from:
 
 <section class="academic-section">
   <h2>Honors and Awards</h2>
-  <div class="compact-grid">
-    <ul>
-      <li><strong>2023.10</strong> National Scholarship (Top 3%), 杭州电子科技大学博士研究生国家奖学金.</li>
-      <li><strong>2023.10</strong> The First Prize Scholarship (Top 30%), 杭州电子科技大学学业一等奖学金.</li>
-      <li><strong>2022.10</strong> The First Prize Scholarship (Top 30%), 杭州电子科技大学学业一等奖学金.</li>
-      <li><strong>2020.10</strong> Excellent Student Cadre (Only one in a college), 西北师范大学优秀学生干部奖.</li>
-      <li><strong>2019.10</strong> Prize for the practice vanguard (Only one in a college), 西北师范大学实践先锋奖.</li>
-    </ul>
-    <ul>
-      <li><strong>2020.10</strong> The Second Prize Scholarship (Top 30%), 西北师范大学学业二等奖学金.</li>
-      <li><strong>2019.10</strong> The Second Prize Scholarship (Top 30%), 西北师范大学学业二等奖学金.</li>
-      <li><strong>2016.11</strong> National Third Prize, 新道杯沙盘模拟运营大赛国赛三等奖.</li>
-      <li><strong>2016.07</strong> Chongqing First Prize, 新道杯沙盘模拟运营大赛重庆市一等奖.</li>
-      <li><strong>2015.07</strong> Chongqing First Prize, 挑战杯全国大学生课外学术科技作品竞赛.</li>
-    </ul>
+  <div class="honor-list">
+    <div class="honor-item">
+      <time>2023.10</time>
+      <p><strong>National Scholarship</strong> <span>Top 3%; 杭州电子科技大学博士研究生国家奖学金.</span></p>
+    </div>
+    <div class="honor-item">
+      <time>2023.10</time>
+      <p><strong>The First Prize Scholarship</strong> <span>Top 30%; 杭州电子科技大学学业一等奖学金.</span></p>
+    </div>
+    <div class="honor-item">
+      <time>2022.10</time>
+      <p><strong>The First Prize Scholarship</strong> <span>Top 30%; 杭州电子科技大学学业一等奖学金.</span></p>
+    </div>
+    <div class="honor-item">
+      <time>2020.10</time>
+      <p><strong>Excellent Student Cadre</strong> <span>Only one in a college; 西北师范大学优秀学生干部奖.</span></p>
+    </div>
+    <div class="honor-item">
+      <time>2020.10</time>
+      <p><strong>The Second Prize Scholarship</strong> <span>Top 30%; 西北师范大学学业二等奖学金.</span></p>
+    </div>
+    <div class="honor-item">
+      <time>2019.10</time>
+      <p><strong>Prize for the Practice Vanguard</strong> <span>Only one in a college; 西北师范大学实践先锋奖.</span></p>
+    </div>
+    <div class="honor-item">
+      <time>2019.10</time>
+      <p><strong>The Second Prize Scholarship</strong> <span>Top 30%; 西北师范大学学业二等奖学金.</span></p>
+    </div>
+    <div class="honor-item">
+      <time>2016.11</time>
+      <p><strong>National Third Prize</strong> <span>新道杯沙盘模拟运营大赛国赛三等奖.</span></p>
+    </div>
+    <div class="honor-item">
+      <time>2016.07</time>
+      <p><strong>Chongqing First Prize</strong> <span>新道杯沙盘模拟运营大赛重庆市一等奖.</span></p>
+    </div>
+    <div class="honor-item">
+      <time>2015.07</time>
+      <p><strong>Chongqing First Prize</strong> <span>挑战杯全国大学生课外学术科技作品竞赛.</span></p>
+    </div>
   </div>
 </section>
 
@@ -174,24 +200,54 @@ redirect_from:
   <h2>Projects</h2>
   <div class="project-list">
     <article>
+      <div class="project-type">National research projects</div>
       <h3>National Natural Science Foundation of China Projects</h3>
-      <p>61772166, 61662071, 61562077, 61662069, 61602143.</p>
       <p>Topics include multimodal biometric cryptography, attribute-based data access control, privacy-preserving multiparty cryptographic algorithms, big-data integrity verification, and lattice-computing complexity.</p>
+      <div class="project-tags">
+        <span>61772166</span>
+        <span>61662071</span>
+        <span>61562077</span>
+        <span>61662069</span>
+        <span>61602143</span>
+      </div>
     </article>
     <article>
+      <div class="project-type">Provincial research project</div>
       <h3>Natural Science Foundation of Zhejiang Province</h3>
-      <p>LZ17F020002: Key information security technologies based on the Internet and multimodal biometric identification.</p>
+      <p>Key information security technologies based on the Internet and multimodal biometric identification.</p>
+      <div class="project-tags">
+        <span>LZ17F020002</span>
+      </div>
     </article>
     <article>
+      <div class="project-type">Open research fund</div>
       <h3>Key Laboratory of Cryptography of Zhejiang Province</h3>
-      <p>ZCL21005: Scalability technology and applications for blockchain cross-chain systems.</p>
+      <p>Scalability technology and applications for blockchain cross-chain systems.</p>
+      <div class="project-tags">
+        <span>ZCL21005</span>
+      </div>
     </article>
   </div>
 </section>
 
-<span class="anchor" id="internships"></span>
+<span class="anchor" id="experience"></span>
 
 <section class="academic-section">
-  <h2>Internships</h2>
-  <p><strong>2020.10-2021.03</strong>, <a href="http://www.xbcisp.com/">Gansu Anju Technology Security Co.</a>, China.</p>
+  <h2>Experience</h2>
+  <div class="experience-list">
+    <article>
+      <time>2025-Present</time>
+      <div>
+        <h3>AI Security Testing Lead</h3>
+        <p>Zhejiang Dong'an Testing Technology Co., Ltd.</p>
+      </div>
+    </article>
+    <article>
+      <time>2020.10-2021.03</time>
+      <div>
+        <h3>Security Technology Internship</h3>
+        <p><a href="http://www.xbcisp.com/">Gansu Anju Technology Security Co.</a>, China.</p>
+      </div>
+    </article>
+  </div>
 </section>
