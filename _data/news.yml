@@ -1,0 +1,24 @@
+- date: "2026.02"
+  text: "<strong>ZebraCPA</strong> accepted by <em>IEEE Internet of Things Journal</em>."
+  source: "featured"
+  pinned: true
+
+- date: "2025.08"
+  text: "<strong>SurroFL</strong> published in <em>IEEE Internet of Things Journal</em>."
+  source: "publication"
+  pinned: true
+
+- date: "2025.03"
+  text: "<strong>A Novel Lattice-based Blockchain Infrastructure and its Application on Trusted Data Management</strong> accepted by <em>IEEE Transactions on Network Science and Engineering</em>."
+  source: "featured"
+  pinned: true
+
+- date: "2021.11"
+  text: "<strong>An efficient outsourcing attribute-based encryption scheme in 5G mobile network environments</strong> published in <em>Peer-to-Peer Networking and Applications</em>."
+  source: "publication"
+  pinned: false
+
+- date: "2020.11"
+  text: "<strong>Privacy protection of VANET based on traceable ring signature on ideal lattice</strong> published in <em>IEEE Access</em>."
+  source: "publication"
+  pinned: false

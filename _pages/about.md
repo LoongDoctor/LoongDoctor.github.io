@@ -74,15 +74,28 @@ redirect_from:
 <section class="academic-section">
   <h2>News</h2>
   <div class="news-list">
-    <div class="news-item">
-      <time>2026.02</time>
-      <p><strong>ZebraCPA</strong> accepted by <em>IEEE Internet of Things Journal</em>.</p>
-    </div>
-    <div class="news-item">
-      <time>2025.03</time>
-      <p><strong>A Novel Lattice-based Blockchain Infrastructure and its Application on Trusted Data Management</strong> accepted by <em>IEEE Transactions on Network Science and Engineering</em>.</p>
-    </div>
+    {% assign featured_news = site.data.news | slice: 0, 3 %}
+    {% for item in featured_news %}
+      <div class="news-item">
+        <time>{{ item.date }}</time>
+        <p>{{ item.text }}</p>
+      </div>
+    {% endfor %}
   </div>
+  {% assign older_news = site.data.news | slice: 3, 20 %}
+  {% if older_news.size > 0 %}
+    <details class="news-more">
+      <summary>More updates</summary>
+      <div class="news-list">
+        {% for item in older_news %}
+          <div class="news-item">
+            <time>{{ item.date }}</time>
+            <p>{{ item.text }}</p>
+          </div>
+        {% endfor %}
+      </div>
+    </details>
+  {% endif %}
 </section>
 
 <span class="anchor" id="publications"></span>
