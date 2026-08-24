@@ -108,9 +108,19 @@ redirect_from:
   <div class="publication-list">
     <article class="publication-card">
       <div class="publication-year">2026</div>
+      <h3><a href="https://doi.org/10.1109/JIOT.2026.3710318">Efficient Lattice-Based Multi-Designated Verifiers Traceable Ring Signature for Conditional Privacy-Preserving Blockchain-Based Anonymous Reporting</a></h3>
+      <p class="publication-authors">Feifei Xia, Lin You, Gengran Hu, Yuyang Kuang, Jindong Huang, <strong>Longbo Han</strong>, and Min Guo.</p>
+      <p class="publication-details">IEEE Internet of Things Journal, early access, 2026.</p>
+      <div class="publication-rankings" aria-label="Journal rankings">
+        <span>中科院 1区</span>
+        <span>JCR Q1</span>
+      </div>
+    </article>
+    <article class="publication-card">
+      <div class="publication-year">2026</div>
       <h3><a href="https://ieeexplore.ieee.org/document/11408819">ZebraCPA: Decentralized, Post-Quantum Conditional Privacy-Preserving Authentication for VANETs via Traceable ZK Ring Signatures</a></h3>
       <p class="publication-authors"><strong>Longbo Han</strong>, Xiaoting Li, Lin You, Gengran Hu, Feifei Xia, Jindong Huang, Yuyang Kuang, and Min Guo.</p>
-      <p class="publication-details">IEEE Internet of Things Journal, early access, 2026.</p>
+      <p class="publication-details">IEEE Internet of Things Journal, 13(10): 21130-21144, 2026.</p>
       <div class="publication-rankings" aria-label="Journal rankings">
         <span>中科院 1区</span>
         <span>JCR Q1</span>
@@ -137,6 +147,16 @@ redirect_from:
       </div>
     </article>
     <article class="publication-card">
+      <div class="publication-year">2021</div>
+      <h3><a href="https://doi.org/10.1007/s12083-021-01195-2">An efficient outsourcing attribute-based encryption scheme in 5G mobile network environments</a></h3>
+      <p class="publication-authors">Zhiqiang Zhang, Suzhen Cao, Xiaodong Yang, Xueyan Liu, and <strong>Longbo Han</strong>.</p>
+      <p class="publication-details">Peer-to-Peer Networking and Applications, 14(6): 3488-3501, 2021.</p>
+      <div class="publication-rankings" aria-label="Journal rankings">
+        <span>中科院 3区</span>
+        <span>JCR Q2</span>
+      </div>
+    </article>
+    <article class="publication-card">
       <div class="publication-year">2020</div>
       <h3><a href="https://ieeexplore.ieee.org/abstract/document/9258891">Privacy protection of VANET based on traceable ring signature on ideal lattice</a></h3>
       <p class="publication-authors"><strong>Longbo Han</strong>, Suzhen Cao, Xiaodong Yang, and Zhiqiang Zhang.</p>
@@ -147,13 +167,12 @@ redirect_from:
       </div>
     </article>
     <article class="publication-card">
-      <div class="publication-year">2021</div>
-      <h3><a href="https://doi.org/10.1007/s12083-021-01195-2">An efficient outsourcing attribute-based encryption scheme in 5G mobile network environments</a></h3>
-      <p class="publication-authors">Zhiqiang Zhang, Suzhen Cao, Xiaodong Yang, Xueyan Liu, and <strong>Longbo Han</strong>.</p>
-      <p class="publication-details">Peer-to-Peer Networking and Applications, 14(6): 3488-3501, 2021.</p>
-      <div class="publication-rankings" aria-label="Journal rankings">
-        <span>中科院 3区</span>
-        <span>JCR Q2</span>
+      <div class="publication-year">2020</div>
+      <h3><a href="https://doi.org/10.1088/1742-6596/1631/1/012139">Attribute-Based Identity Authentication Scheme Based on Linear Codes</a></h3>
+      <p class="publication-authors">Zhiqiang Zhang, Suzhen Cao, <strong>Longbo Han</strong>, and Xueyan Liu.</p>
+      <p class="publication-details">Journal of Physics: Conference Series, 1631(1): 012139, 2020.</p>
+      <div class="publication-rankings" aria-label="Publication type">
+        <span>Conference Paper</span>
       </div>
     </article>
   </div>
@@ -253,6 +272,11 @@ redirect_from:
       <div>
         <h3>AI Security Testing Lead</h3>
         <p>Zhejiang Dong'an Testing Technology Co., Ltd.</p>
+        <ul class="experience-outcomes">
+          <li>Led a DeepSeek-based large-model security evaluation project, covering content safety, data security, adversarial robustness, and assessment delivery.</li>
+          <li>Supported the compliance filing of the Kude large model through safety evaluation materials and regulatory documentation.</li>
+          <li>Led the R&amp;D of Dong'an AI Security Evaluation System, integrating test-case management, automated evaluation, evidence traceability, and report generation.</li>
+        </ul>
       </div>
     </article>
     <article>
