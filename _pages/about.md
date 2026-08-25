@@ -78,7 +78,12 @@ redirect_from:
     {% for item in featured_news %}
       <div class="news-item">
         <time>{{ item.date }}</time>
-        <p>{{ item.text }}</p>
+        <p>
+          {{ item.text }}
+          {% if item.url %}
+            <a class="news-source" href="{{ item.url }}" target="_blank" rel="noopener">{{ item.link_label | default: "Source" }}</a>
+          {% endif %}
+        </p>
       </div>
     {% endfor %}
   </div>
@@ -90,7 +95,12 @@ redirect_from:
         {% for item in older_news %}
           <div class="news-item">
             <time>{{ item.date }}</time>
-            <p>{{ item.text }}</p>
+            <p>
+              {{ item.text }}
+              {% if item.url %}
+                <a class="news-source" href="{{ item.url }}" target="_blank" rel="noopener">{{ item.link_label | default: "Source" }}</a>
+              {% endif %}
+            </p>
           </div>
         {% endfor %}
       </div>
@@ -108,7 +118,7 @@ redirect_from:
   <div class="publication-list">
     <article class="publication-card">
       <div class="publication-year">2026</div>
-      <h3><a href="https://ieeexplore.ieee.org/document/11408819">ZebraCPA: Decentralized, Post-Quantum Conditional Privacy-Preserving Authentication for VANETs via Traceable ZK Ring Signatures</a></h3>
+      <h3><a href="https://ieeexplore.ieee.org/document/11408819">ZebraCPA: Decentralized, Post-Quantum Conditional Privacy-Preserving Authentication for VANETs via Traceable ZK Ring Signatures</a> <span class="show_paper_citations publication-citations" data-scholar-id="sfSE38wAAAAJ:UeHWp8X0CEIC" aria-label="0 citations">Citations 0</span></h3>
       <p class="publication-authors"><strong>Longbo Han</strong>, Xiaoting Li, Lin You, Gengran Hu, Feifei Xia, Jindong Huang, Yuyang Kuang, and Min Guo.</p>
       <p class="publication-details">IEEE Internet of Things Journal, 13(10): 21130-21144, 2026.</p>
       <div class="publication-rankings" aria-label="Journal rankings">
@@ -118,7 +128,7 @@ redirect_from:
     </article>
     <article class="publication-card">
       <div class="publication-year">2025</div>
-      <h3><a href="https://ieeexplore.ieee.org/abstract/document/10922084">A Novel Lattice-based Blockchain Infrastructure and its Application on Trusted Data Management</a></h3>
+      <h3><a href="https://ieeexplore.ieee.org/abstract/document/10922084">A Novel Lattice-based Blockchain Infrastructure and its Application on Trusted Data Management</a> <span class="show_paper_citations publication-citations" data-scholar-id="sfSE38wAAAAJ:9yKSN-GCB0IC" aria-label="11 citations">Citations 11</span></h3>
       <p class="publication-authors"><strong>Longbo Han</strong>, Gengran Hu, Xiaoting Li, Feifei Xia, Shengbao Wang, and Lin You.</p>
       <p class="publication-details">IEEE Transactions on Network Science and Engineering, 12(4): 2524-2536, 2025.</p>
       <div class="publication-rankings" aria-label="Journal rankings">
@@ -128,7 +138,7 @@ redirect_from:
     </article>
     <article class="publication-card">
       <div class="publication-year">2020</div>
-      <h3><a href="https://ieeexplore.ieee.org/abstract/document/9258891">Privacy protection of VANET based on traceable ring signature on ideal lattice</a></h3>
+      <h3><a href="https://ieeexplore.ieee.org/abstract/document/9258891">Privacy protection of VANET based on traceable ring signature on ideal lattice</a> <span class="show_paper_citations publication-citations" data-scholar-id="sfSE38wAAAAJ:u-x6o8ySG0sC" aria-label="34 citations">Citations 34</span></h3>
       <p class="publication-authors"><strong>Longbo Han</strong>, Suzhen Cao, Xiaodong Yang, and Zhiqiang Zhang.</p>
       <p class="publication-details">IEEE Access, 8: 206581-206591, 2020.</p>
       <div class="publication-rankings" aria-label="Journal rankings">
@@ -138,7 +148,7 @@ redirect_from:
     </article>
     <article class="publication-card">
       <div class="publication-year">2026</div>
-      <h3><a href="https://doi.org/10.1109/JIOT.2026.3710318">Efficient Lattice-Based Multi-Designated Verifiers Traceable Ring Signature for Conditional Privacy-Preserving Blockchain-Based Anonymous Reporting</a></h3>
+      <h3><a href="https://doi.org/10.1109/JIOT.2026.3710318">Efficient Lattice-Based Multi-Designated Verifiers Traceable Ring Signature for Conditional Privacy-Preserving Blockchain-Based Anonymous Reporting</a> <span class="show_paper_citations publication-citations" data-scholar-id="sfSE38wAAAAJ:IjCSPb-OGe4C" aria-label="0 citations">Citations 0</span></h3>
       <p class="publication-authors">Feifei Xia, Lin You, Gengran Hu, Yuyang Kuang, Jindong Huang, <strong>Longbo Han</strong>, and Min Guo.</p>
       <p class="publication-details">IEEE Internet of Things Journal, early access, 2026.</p>
       <div class="publication-rankings" aria-label="Journal rankings">
@@ -148,7 +158,7 @@ redirect_from:
     </article>
     <article class="publication-card">
       <div class="publication-year">2025</div>
-      <h3><a href="https://ieeexplore.ieee.org/document/11141403">SurroFL: Sketch-Based Defense Against Poisoning in Privacy-Preserving Federated Learning</a></h3>
+      <h3><a href="https://ieeexplore.ieee.org/document/11141403">SurroFL: Sketch-Based Defense Against Poisoning in Privacy-Preserving Federated Learning</a> <span class="show_paper_citations publication-citations" data-scholar-id="sfSE38wAAAAJ:2osOgNQ5qMEC" aria-label="5 citations">Citations 5</span></h3>
       <p class="publication-authors">Yuyang Kuang, Weinan Liu, <strong>Longbo Han</strong>, Jindong Huang, Peng Cao, and Lin You.</p>
       <p class="publication-details">IEEE Internet of Things Journal, 12(23): 49417-49430, 2025.</p>
       <div class="publication-rankings" aria-label="Journal rankings">
@@ -158,7 +168,7 @@ redirect_from:
     </article>
     <article class="publication-card">
       <div class="publication-year">2021</div>
-      <h3><a href="https://doi.org/10.1007/s12083-021-01195-2">An efficient outsourcing attribute-based encryption scheme in 5G mobile network environments</a></h3>
+      <h3><a href="https://doi.org/10.1007/s12083-021-01195-2">An efficient outsourcing attribute-based encryption scheme in 5G mobile network environments</a> <span class="show_paper_citations publication-citations" data-scholar-id="sfSE38wAAAAJ:u5HHmVD_uO8C" aria-label="6 citations">Citations 6</span></h3>
       <p class="publication-authors">Zhiqiang Zhang, Suzhen Cao, Xiaodong Yang, Xueyan Liu, and <strong>Longbo Han</strong>.</p>
       <p class="publication-details">Peer-to-Peer Networking and Applications, 14(6): 3488-3501, 2021.</p>
       <div class="publication-rankings" aria-label="Journal rankings">
@@ -168,7 +178,7 @@ redirect_from:
     </article>
     <article class="publication-card">
       <div class="publication-year">2020</div>
-      <h3><a href="https://doi.org/10.1088/1742-6596/1631/1/012139">Attribute-Based Identity Authentication Scheme Based on Linear Codes</a></h3>
+      <h3><a href="https://doi.org/10.1088/1742-6596/1631/1/012139">Attribute-Based Identity Authentication Scheme Based on Linear Codes</a> <span class="show_paper_citations publication-citations" data-scholar-id="sfSE38wAAAAJ:qjMakFHDy7sC" aria-label="0 citations">Citations 0</span></h3>
       <p class="publication-authors">Zhiqiang Zhang, Suzhen Cao, <strong>Longbo Han</strong>, and Xueyan Liu.</p>
       <p class="publication-details">Journal of Physics: Conference Series, 1631(1): 012139, 2020.</p>
       <div class="publication-rankings" aria-label="Publication type">

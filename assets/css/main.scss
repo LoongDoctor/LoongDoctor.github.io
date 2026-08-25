@@ -362,10 +362,28 @@ body {
       text-decoration: underline;
     }
   }
+
+  .news-source {
+    display: inline-block;
+    margin-left: 0.35rem;
+    color: #64748b;
+    font-size: 0.78rem;
+    font-weight: 700;
+    white-space: nowrap;
+
+    &::before {
+      margin-right: 0.35rem;
+      content: "·";
+    }
+  }
 }
 
 .news-more {
   margin-top: 0.8rem;
+
+  &:not([open]) > .news-list {
+    display: none;
+  }
 
   summary {
     display: inline-flex;
@@ -441,6 +459,21 @@ body {
 
 .publication-authors {
   color: #334155 !important;
+}
+
+.publication-citations {
+  display: inline-block;
+  margin-left: 0.4rem;
+  color: #64748b;
+  font-size: 0.72rem;
+  font-weight: 700;
+  line-height: 1;
+  white-space: nowrap;
+
+  &::before {
+    margin-right: 0.4rem;
+    content: "·";
+  }
 }
 
 .publication-details {

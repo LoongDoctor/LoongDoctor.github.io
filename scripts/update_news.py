@@ -37,6 +37,14 @@ def strip_tags(value: str) -> str:
     return re.sub(r"<[^>]+>", "", value)
 
 
+def item_key(item: dict[str, str | bool]) -> str:
+    text = str(item.get("text", ""))
+    strong_match = re.search(r"<strong>(.*?)</strong>", text, flags=re.IGNORECASE | re.DOTALL)
+    candidate = strong_match.group(1) if strong_match else text
+    normalized = strip_tags(html.unescape(candidate)).casefold()
+    return re.sub(r"\W+", "", normalized)
+
+
 def read_existing_items() -> list[dict[str, str | bool]]:
     if not NEWS_FILE.exists():
         return []
@@ -141,6 +149,9 @@ def write_items(items: list[dict[str, str | bool]]) -> None:
         lines.append(f"- date: {yml_escape(str(item['date']))}")
         lines.append(f"  text: {yml_escape(str(item['text']))}")
         lines.append(f"  source: {yml_escape(str(item.get('source', 'auto')))}")
+        for key in ("url", "link_label"):
+            if item.get(key):
+                lines.append(f"  {key}: {yml_escape(str(item[key]))}")
         lines.append(f"  pinned: {str(bool(item.get('pinned', False))).lower()}")
         lines.append("")
     NEWS_FILE.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
@@ -149,12 +160,11 @@ def write_items(items: list[dict[str, str | bool]]) -> None:
 def main() -> int:
     existing = read_existing_items()
     manual_items = [item for item in existing if item.get("source") != "auto"]
-    existing_titles = {strip_tags(str(item.get("text", ""))).lower() for item in manual_items}
+    existing_titles = {item_key(item) for item in manual_items}
 
     auto_items = []
     for item in openalex_items():
-        title = strip_tags(str(item["text"])).lower()
-        if title in existing_titles:
+        if item_key(item) in existing_titles:
             continue
         auto_items.append(item)
 
