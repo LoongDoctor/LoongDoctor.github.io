@@ -51,11 +51,6 @@
   link_label: "Paper"
   pinned: true
 
-- date: "2025-Present"
-  text: "Leading the R&amp;D of the <strong>Dong'an AI Security Evaluation System</strong>, integrating test-case management, automated evaluation, evidence traceability, and report generation."
-  source: "project"
-  pinned: true
-
 - date: "2025.08"
   text: "<strong>SurroFL</strong> published in <em>IEEE Internet of Things Journal</em>."
   source: "publication"
@@ -68,6 +63,11 @@
   source: "featured"
   url: "https://ieeexplore.ieee.org/document/10922084"
   link_label: "Paper"
+  pinned: true
+
+- date: "2025-Present"
+  text: "Leading the R&amp;D of the <strong>Dong'an AI Security Evaluation System</strong>, integrating test-case management, automated evaluation, evidence traceability, and report generation."
+  source: "project"
   pinned: true
 
 - date: "2021.11"
